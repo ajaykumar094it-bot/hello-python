@@ -1,1 +1,1 @@
-print("Hello buddy, it's my first git pproject")
+print("Hello buddy version .. 6!!")

@@ -1,0 +1,1 @@
+print("Hello buddy, it's my first git pproject")
